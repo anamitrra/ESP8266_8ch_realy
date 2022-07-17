@@ -1,4 +1,4 @@
-# ESP8266_8ch_realy
+# ESP8266_8ch_relay
 Configured for ESP8266 NodeMCU D0 to D7
 
 
