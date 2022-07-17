@@ -18,13 +18,13 @@
 #define relay8 D7
 
 
-#define BLYNK_AUTH_TOKEN "gNhkEihxDeYLIZGLrgdW40zjH9XlU3QO" //Enter your blynk auth token
-#define BLYNK_TEMPLATE_ID "TMPLutEj7B9Y"
-#define BLYNK_DEVICE_NAME "Home Automation"
+#define BLYNK_AUTH_TOKEN "" //Enter your blynk auth token
+#define BLYNK_TEMPLATE_ID "" //Enter your Blynk Template id
+#define BLYNK_DEVICE_NAME "" // Enter your Device name that has been created on blynk web
 
 char auth[] = BLYNK_AUTH_TOKEN;
-char ssid[] = "jiofi";//Enter your WIFI name
-char pass[] = "as03w2089";//Enter your WIFI password
+char ssid[] = "";//Enter your WIFI name
+char pass[] = "";//Enter your WIFI password
 
 //Get the button values
 BLYNK_WRITE(V0) {
